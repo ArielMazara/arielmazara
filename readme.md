@@ -37,11 +37,3 @@
 <div align="center">
   <img src="github-metrics.svg" alt="Mis Métricas de GitHub" />
 </div>
-
-<div align="center">
-
-  ### 📊 GitHub Metrics
-
-  <img src="/github-metrics.svg" alt="Métricas de Ariel" width="100%">
-
-</div>
