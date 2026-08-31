@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Ariel Mazara 👋</h1>
-  <h3>Estudiante de Programación en la <kbd>UTN FRSR</kbd></h3>
+  <h3>Estudiante de Programación en la UTN FRSR</h3>
   <p>
     <i>Construyendo el primer SaaS que funciona como el director financiero de la finca, enfocado en producciones intensivas de Mendoza. </i>
   </p>
