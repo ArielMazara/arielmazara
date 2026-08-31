@@ -2,7 +2,7 @@
   <h1>¡Hola! Soy Ariel Mazara 👋</h1>
   <h3>Estudiante de Programación en la <kbd>UTN FRSR</kbd></h3>
   <p>
-    <i>Construyendo el primer SaaS que funciona como el director financiero de la finca, enfocado en producciones intensivas de Mendoza (vid, ajo, durazno).</i>
+    <i>Construyendo el primer SaaS que funciona como el director financiero de la finca, enfocado en producciones intensivas de Mendoza. </i>
   </p>
 
   <a href="https://www.instagram.com/arielmazara/">
