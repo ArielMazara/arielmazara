@@ -5,7 +5,7 @@
     <i>Construyendo el primer SaaS que funciona como el director financiero de la finca, enfocado en producciones intensivas de Mendoza (vid, ajo, durazno).</i>
   </p>
 
-  <a href="TU_LINK_AQUI">
+  <a href="https://www.instagram.com/arielmazara/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
