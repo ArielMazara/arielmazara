@@ -19,4 +19,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_habits: no
-      
+  # Estilo a juego con el banner (violeta / gris)
+          extras_css: |
+            h2, h2 a, h2.field, h2.field a { color: #a78bfa !important; }
+            h1, h1 a { color: #f5f5f7 !important; }
+            .field { color: #a1a1aa !important; }
+            .field svg { fill: #71717a !important; }
+            footer, .footer, .subtitle { color: #71717a !important; }
